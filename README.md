@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Tableau<br>📚 PowerBI<br>🎯 Python</p>
+<p align="left">✨ Tableau<br>📚 PowerBI<br>🎯 Python<br>✨ SQL</p>
 
 ###
 
